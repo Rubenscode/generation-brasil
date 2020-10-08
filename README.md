@@ -21,3 +21,13 @@
 	    <li> ex3</li>
 	    <li> ex4</li>
 	</ol>
+
+<h4>Lista 3 - Estrutura Repetição</h4>  
+	<ol>
+		<li> ex1</li>
+	    <li> ex2</li>
+	    <li> ex3</li>
+	    <li> ex4</li>
+		<li> ex5</li>
+	    <li> ex6</li>
+	</ol>
