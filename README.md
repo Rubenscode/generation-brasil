@@ -31,3 +31,11 @@
 		<li> ex5</li>
 	    <li> ex6</li>
 	</ol>
+
+<h4>Lista 4 - Arrays</h4>  
+	<ol>
+		<li> ex1</li>
+	    <li> ex2</li>
+	    <li> ex3</li>
+	    <li> ex4</li>
+	</ol>
