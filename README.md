@@ -39,3 +39,30 @@
 	    <li> ex3</li>
 	    <li> ex4</li>
 	</ol>
+<h4>Lista 5 - Classe e Objeto</h4>  
+	<ol>
+	    <li> Cliente</li>
+		<li> Avião</li>
+	    <li> Produto Eletronico</li>
+	    <li> Funcionario</li>
+		<li> Patinete</li>
+		<li> Conta Bancaria</li>
+		<li> Paciente</li>
+	</ol>
+
+<h4>Lista 6 - Herança e Encapsulamento</h4>  
+	<ol>
+		<li> Pessoa</li>
+	    <li> Fornecedor</li>
+	    <li> Empregado</li>
+	    <li> Administrador</li>
+		<li> Operario</li>
+	    <li> Vendedor</li>
+	</ol>
+
+<h4>Lista 7 - Polimorfismo e Herança e Collections</h4>  
+	<ol>
+		<li> Animal - Cachorro | Cavalo | Preguiça - Herança </li>
+	    <li> Animal - Cachorro | Cavalo | Preguiça - Polimorfismo</li>
+	    <li> Collections</li>
+	</ol>
